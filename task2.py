@@ -1,7 +1,5 @@
-import random
 import timeit
 import matplotlib.pyplot as plt
-from collections import OrderedDict, Counter
 from functools import lru_cache
 
 # Реалізація функції з використанням LRU-кешу
